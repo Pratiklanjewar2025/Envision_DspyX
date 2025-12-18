@@ -8,6 +8,7 @@ Tejas Bankar – PCCOE, Pune
 
 Pratik Lanjewar – PCCOE, Pune
 
+Manual link :- https://dspyx-manuals.netlify.app/
 
 This project aims to detect grey market and potentially illegal product sales on e‑commerce platforms using data scraping, preprocessing, feature engineering, and risk intelligence.
 
