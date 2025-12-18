@@ -34,10 +34,11 @@ Our system builds an analytical dataset that enables:
 └── README.md                   # Project documentation
 
 📊 Dataset 1: Raw Dataset (snapdeal_raw_data.csv)
-🔹 Description
 
+🔹 Description
 This dataset contains only information directly scraped from Snapdeal product listings and product detail pages.
 No transformations or assumptions are applied here.
+
 🔹 Raw Columns
 Column	Description
 product_name	Product title as shown on the platform
@@ -53,10 +54,11 @@ seller_rating	Seller rating (if available)
 
 
 📈 Dataset 2: Derived Dataset (snapdeal_derived_data.csv)
-🔹 Description
 
+🔹 Description
 This dataset is created after cleaning, preprocessing, feature engineering, and risk signal generation.
 It is the primary dataset used for analysis, visualization, and modeling.
+
 🔹 Derived & Analytical Columns
 🧮 Pricing & Discount Features
 Column	Purpose
