@@ -1,9 +1,11 @@
 🛒**GreyMarketsentinel** :  AI‑Based Grey Market & Illegal Product Sales Detection
 
-Team DspyX 
-Vishvesh Paturkar - PICT,pune
-Tejas Bankar - PCCOE , pune
-Pratik Lanjewar - PCCOE, pune
+Team DspyX
+
+-Vishvesh Paturkar - PICT,pune
+-Tejas Bankar - PCCOE , pune
+-Pratik Lanjewar - PCCOE, pune
+
 This project aims to detect grey market and potentially illegal product sales on e‑commerce platforms using data scraping, preprocessing, feature engineering, and risk intelligence.
 
 Unauthorized sellers often exploit:
